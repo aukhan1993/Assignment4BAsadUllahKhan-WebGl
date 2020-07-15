@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Hummng birt project",
+"productVersion": "0.1",
+"dataUrl": "Assads WebGl.data.unityweb",
+"wasmCodeUrl": "Assads WebGl.wasm.code.unityweb",
+"wasmFrameworkUrl": "Assads WebGl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.3f1"
+}
